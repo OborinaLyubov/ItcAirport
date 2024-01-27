@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Расписание рейса" />
+			<Item Name="Columns.ItcArrivalSchedule.Caption" Value="Прилет по расписанию" />
+			<Item Name="Columns.ItcDepartureSchedule.Caption" Value="Вылет по расписанию" />
+			<Item Name="Columns.ItcFlight.Caption" Value="Рейс" />
+			<Item Name="Columns.ItcFlightState.Caption" Value="Состояние рейса" />
+			<Item Name="Columns.ItcTravelTime.Caption" Value="Время в пути" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>
