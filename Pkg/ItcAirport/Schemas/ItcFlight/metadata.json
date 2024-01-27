@@ -1,0 +1,90 @@
+= MetaData.Schema.UId "df2b1210-e285-4bab-838e-98188c5af236"
+= MetaData.Schema.A2 "ItcFlight"
+= MetaData.Schema.A5 "57dd6ac5-9b84-474c-afb6-82990de558bc"
+= MetaData.Schema.B6 "1e5bc5d6-a285-6a79-e186-d0159b8cb3d2"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "4697a94c-b648-47d5-afb2-68e19c7396e4"
+= MetaData.Schema.EG1.A2 "ItcEntity_a03e94aEventsProcess"
+= MetaData.Schema.EG1.A5 "57dd6ac5-9b84-474c-afb6-82990de558bc"
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"].CK2.["496d4a3c-b644-4a65-b0ed-2534d9236da5"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"].CK2.["d8b8410f-5c8a-4ddc-8fc2-353483452aed"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"].CK2.["d7c806b7-a29b-4ce5-9167-b3319472e772"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"].CK2.["933bf2fc-d052-40c8-a3e0-bf60049da5d8"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "c7700e49-a85f-56d0-9500-86713d6f4b87"
++ MetaData.Schema.D2 {
+  "UId": "4d4177c4-f06a-2842-c5d0-9b75c20cc4c8",
+  "A2": "ItcDeparturePoint",
+  "A3": "df2b1210-e285-4bab-838e-98188c5af236",
+  "A4": "df2b1210-e285-4bab-838e-98188c5af236",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "b990ed98-3bbb-4b39-94bc-db59b0c5a3cc",
+  "E6": true,
+  "E17": "ItcDeparturePointId",
+  "E18": "ItcDeparturePointItcName"
+}
++ MetaData.Schema.D2 {
+  "UId": "9dcf4685-4eb3-1065-8e50-2ac8363ec2ec",
+  "A2": "ItcAirline",
+  "A3": "df2b1210-e285-4bab-838e-98188c5af236",
+  "A4": "df2b1210-e285-4bab-838e-98188c5af236",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "03ea934b-a30e-4a17-89d0-eb752b5bd171",
+  "E6": true,
+  "E17": "ItcAirlineId",
+  "E18": "ItcAirlineItcName"
+}
++ MetaData.Schema.D2 {
+  "UId": "970172a8-1220-5bf7-1a89-7b9ce108f31a",
+  "A2": "ItcDestinationPoint",
+  "A3": "df2b1210-e285-4bab-838e-98188c5af236",
+  "A4": "df2b1210-e285-4bab-838e-98188c5af236",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "b990ed98-3bbb-4b39-94bc-db59b0c5a3cc",
+  "E6": true,
+  "E17": "ItcDestinationPointId",
+  "E18": "ItcDestinationPointItcName"
+}
++ MetaData.Schema.D2 {
+  "UId": "c7700e49-a85f-56d0-9500-86713d6f4b87",
+  "A2": "ItcCode",
+  "A3": "df2b1210-e285-4bab-838e-98188c5af236",
+  "A4": "df2b1210-e285-4bab-838e-98188c5af236",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac",
+  "E2": 1
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","4d4177c4-f06a-2842-c5d0-9b75c20cc4c8","9dcf4685-4eb3-1065-8e50-2ac8363ec2ec","970172a8-1220-5bf7-1a89-7b9ce108f31a","c7700e49-a85f-56d0-9500-86713d6f4b87"]
+= MetaData.Schema.D20.A2 "ItcFlightEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false
