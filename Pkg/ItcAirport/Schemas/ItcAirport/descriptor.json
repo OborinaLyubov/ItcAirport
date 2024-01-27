@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b990ed98-3bbb-4b39-94bc-db59b0c5a3cc",
+    "Name": "ItcAirport",
+    "ModifiedOnUtc": "\/Date(1706296913000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Аэропорт"
+  }
+}
