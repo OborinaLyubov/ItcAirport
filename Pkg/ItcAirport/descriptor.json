@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "1e5bc5d6-a285-6a79-e186-d0159b8cb3d2",
+    "Name": "ItcAirport",
+    "ModifiedOnUtc": "\/Date(1706295813000)\/",
+    "Maintainer": "ITC",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}
