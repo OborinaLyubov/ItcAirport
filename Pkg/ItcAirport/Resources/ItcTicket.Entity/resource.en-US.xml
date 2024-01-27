@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Билет" />
+			<Item Name="Columns.ItcFlight.Caption" Value="Рейс" />
+			<Item Name="Columns.ItcGate.Caption" Value="Выход" />
+			<Item Name="Columns.ItcNote.Caption" Value="Примечание" />
+			<Item Name="Columns.ItcNumber.Caption" Value="Номер билета" />
+			<Item Name="Columns.ItcPassenger.Caption" Value="Пассажир" />
+			<Item Name="Columns.ItcPlace.Caption" Value="Место" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

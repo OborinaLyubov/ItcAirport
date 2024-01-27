@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Пассажир" />
+			<Item Name="Columns.ItcCitizenship.Caption" Value="Гражданство" />
+			<Item Name="Columns.ItcCode.Caption" Value="Код пассажира" />
+			<Item Name="Columns.ItcFullName.Caption" Value="ФИО" />
+			<Item Name="Columns.ItcPassport.Caption" Value="Паспорт (серия, номер)" />
+			<Item Name="Columns.ItcPhone.Caption" Value="Телефон" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>
