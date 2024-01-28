@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8866b560-8d53-48db-950b-31a50de90224",
+    "Name": "ItcFlightOperation",
+    "ModifiedOnUtc": "\/Date(1706428050000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Операция рейса"
+  }
+}

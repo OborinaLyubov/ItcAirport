@@ -1,0 +1,174 @@
+= MetaData.Schema.UId "8866b560-8d53-48db-950b-31a50de90224"
+= MetaData.Schema.A2 "ItcFlightOperation"
+= MetaData.Schema.A5 "57dd6ac5-9b84-474c-afb6-82990de558bc"
+= MetaData.Schema.B6 "1e5bc5d6-a285-6a79-e186-d0159b8cb3d2"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "19df6221-83a1-45a8-857d-43275b03f514"
+= MetaData.Schema.EG1.A2 "ItcEntity_d36f5c4EventsProcess"
+= MetaData.Schema.EG1.A5 "57dd6ac5-9b84-474c-afb6-82990de558bc"
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"].CK2.["496d4a3c-b644-4a65-b0ed-2534d9236da5"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"].CK2.["d8b8410f-5c8a-4ddc-8fc2-353483452aed"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"].CK2.["d7c806b7-a29b-4ce5-9167-b3319472e772"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"].CK2.["933bf2fc-d052-40c8-a3e0-bf60049da5d8"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D2 {
+  "UId": "93036a8d-b343-f0e9-7ad9-de0d627fd756",
+  "A2": "ItcFlight",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "57f1b8f2-690a-49c4-8bde-455f5f904c05",
+  "E6": true,
+  "E17": "ItcFlightId"
+}
++ MetaData.Schema.D2 {
+  "UId": "fcafbb75-2515-0924-0285-d8631bd51c9e",
+  "A2": "ItcExitNumber",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "d187f51e-8a8d-d6b7-17cb-3ab66eb5afbb",
+  "A2": "ItcTransfer",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "cb922b70-9822-458b-bf57-087badb3eb9b",
+  "E6": true,
+  "E17": "ItcTransferId",
+  "E18": "ItcTransferName"
+}
++ MetaData.Schema.D2 {
+  "UId": "2576226a-20ef-7d19-e927-4acf86724c84",
+  "A2": "ItcAirplane",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "E6": true,
+  "E17": "ItcAirplaneId",
+  "E18": "ItcAirplaneItcCode"
+}
++ MetaData.Schema.D2 {
+  "UId": "4355e22c-578d-a521-613e-d60bdd17a005",
+  "A2": "ItcOperationStatus",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "91099b47-f7ae-488a-b988-83abc265cee6",
+  "E2": 1,
+  "E6": true,
+  "E17": "ItcOperationStatusId",
+  "E18": "ItcOperationStatusName"
+}
++ MetaData.Schema.D2 {
+  "UId": "0ced8882-8a44-ef85-1bc8-c850e8d21cf1",
+  "A2": "ItcMultimediaSystem",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907"
+}
++ MetaData.Schema.D2 {
+  "UId": "5d7e4d71-367e-b6fc-1ddf-709c4684bfdd",
+  "A2": "ItcMoreSpace",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907"
+}
++ MetaData.Schema.D2 {
+  "UId": "a8b49df3-0d83-071e-0a2e-d76ba2e699fb",
+  "A2": "ItcChoiceLocation",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907"
+}
++ MetaData.Schema.D2 {
+  "UId": "ec7c7027-90b4-d3af-d7b5-1f547369ed58",
+  "A2": "ItcSpecialFood",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907"
+}
++ MetaData.Schema.D2 {
+  "UId": "70918bff-a2c0-aca1-9ba2-4b8113464b57",
+  "A2": "ItcBusinessClass",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907"
+}
++ MetaData.Schema.D2 {
+  "UId": "2db91fec-4b3a-3b11-6044-bc4d25a20cd9",
+  "A2": "ItcEconomyClass",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907"
+}
++ MetaData.Schema.D2 {
+  "UId": "60d80ab1-773c-8dc3-b3a6-25aceaaf2753",
+  "A2": "ItcEndingTime",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
++ MetaData.Schema.D2 {
+  "UId": "4ed75c34-9929-ca2b-1b8e-480ed55b736a",
+  "A2": "ItcStartTime",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
++ MetaData.Schema.D2 {
+  "UId": "338be65a-3974-2440-eaba-9c0d1c396e72",
+  "A2": "ItcOperationType",
+  "A3": "8866b560-8d53-48db-950b-31a50de90224",
+  "A4": "8866b560-8d53-48db-950b-31a50de90224",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "159295c5-11f5-4876-bdac-ca91ce4360ab",
+  "E2": 1,
+  "E6": true,
+  "E17": "ItcOperationTypeId",
+  "E18": "ItcOperationTypeName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","93036a8d-b343-f0e9-7ad9-de0d627fd756","fcafbb75-2515-0924-0285-d8631bd51c9e","d187f51e-8a8d-d6b7-17cb-3ab66eb5afbb","2576226a-20ef-7d19-e927-4acf86724c84","4355e22c-578d-a521-613e-d60bdd17a005","0ced8882-8a44-ef85-1bc8-c850e8d21cf1","5d7e4d71-367e-b6fc-1ddf-709c4684bfdd","a8b49df3-0d83-071e-0a2e-d76ba2e699fb","ec7c7027-90b4-d3af-d7b5-1f547369ed58","70918bff-a2c0-aca1-9ba2-4b8113464b57","2db91fec-4b3a-3b11-6044-bc4d25a20cd9","60d80ab1-773c-8dc3-b3a6-25aceaaf2753","4ed75c34-9929-ca2b-1b8e-480ed55b736a","338be65a-3974-2440-eaba-9c0d1c396e72"]
+= MetaData.Schema.D20.A2 "ItcFlightOperationEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

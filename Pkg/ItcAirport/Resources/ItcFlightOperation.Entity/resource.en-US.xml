@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Операция рейса" />
+			<Item Name="Columns.ItcAirplane.Caption" Value="Самолет" />
+			<Item Name="Columns.ItcBusinessClass.Caption" Value="Бизнес класс" />
+			<Item Name="Columns.ItcChoiceLocation.Caption" Value="Выбор места" />
+			<Item Name="Columns.ItcEconomyClass.Caption" Value="Эконом класс" />
+			<Item Name="Columns.ItcEndingTime.Caption" Value="Время окончания" />
+			<Item Name="Columns.ItcExitNumber.Caption" Value="Номер выхода" />
+			<Item Name="Columns.ItcFlight.Caption" Value="Рейс" />
+			<Item Name="Columns.ItcMoreSpace.Caption" Value="Space+" />
+			<Item Name="Columns.ItcMultimediaSystem.Caption" Value="Система мультимедийных развлечений" />
+			<Item Name="Columns.ItcOperationStatus.Caption" Value="Статус операции" />
+			<Item Name="Columns.ItcOperationType.Caption" Value="Тип операции" />
+			<Item Name="Columns.ItcSpecialFood.Caption" Value="Специальное питание" />
+			<Item Name="Columns.ItcStartTime.Caption" Value="Время начала" />
+			<Item Name="Columns.ItcTransfer.Caption" Value="Трансфер" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>
