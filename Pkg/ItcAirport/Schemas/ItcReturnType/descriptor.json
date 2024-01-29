@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d6e70b76-740b-41da-b420-5fdbab74f5d0",
+    "Name": "ItcReturnType",
+    "ModifiedOnUtc": "\/Date(1706510588000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тип возврата"
+  }
+}

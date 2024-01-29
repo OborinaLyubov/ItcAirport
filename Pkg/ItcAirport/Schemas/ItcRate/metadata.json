@@ -1,0 +1,123 @@
+= MetaData.Schema.UId "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9"
+= MetaData.Schema.A2 "ItcRate"
+= MetaData.Schema.A5 "57dd6ac5-9b84-474c-afb6-82990de558bc"
+= MetaData.Schema.B6 "1e5bc5d6-a285-6a79-e186-d0159b8cb3d2"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "2ded60fb-e260-459a-8fa6-178d64c814b7"
+= MetaData.Schema.EG1.A2 "ItcEntity_d998c6bEventsProcess"
+= MetaData.Schema.EG1.A5 "57dd6ac5-9b84-474c-afb6-82990de558bc"
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"].CK2.["496d4a3c-b644-4a65-b0ed-2534d9236da5"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"].CK2.["d8b8410f-5c8a-4ddc-8fc2-353483452aed"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"].CK2.["d7c806b7-a29b-4ce5-9167-b3319472e772"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"].CK2.["933bf2fc-d052-40c8-a3e0-bf60049da5d8"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D2 {
+  "UId": "b8884460-32ba-b66e-1d14-77f8ad291927",
+  "A2": "ItcPrice",
+  "A3": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A4": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "6d59daa0-93d6-67f4-1da3-44f1dd4d8119",
+  "A2": "ItcChioceLocation",
+  "A3": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A4": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "4d229ca7-d76f-48e6-ae0d-d3d3557d9910",
+  "E6": true,
+  "E17": "ItcChioceLocationId",
+  "E18": "ItcChioceLocationName"
+}
++ MetaData.Schema.D2 {
+  "UId": "ad2a33f9-2501-c630-5e01-6b6526699ba5",
+  "A2": "ItcAvailabilityBaggage",
+  "A3": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A4": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907"
+}
++ MetaData.Schema.D2 {
+  "UId": "6ffce761-f23e-f2f1-df2b-581af0f83cbc",
+  "A2": "ItcHandLuggageMaxWeight",
+  "A3": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A4": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "3f62414e-6c25-4182-bcef-a73c9e396f31"
+}
++ MetaData.Schema.D2 {
+  "UId": "89c74ee5-0fe5-294d-1c98-ad92aa822484",
+  "A2": "ItcSwap",
+  "A3": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A4": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "4dee2ff0-8eb0-459e-aed9-9b5f24e020b9",
+  "E6": true,
+  "E17": "ItcSwapId",
+  "E18": "ItcSwapName"
+}
++ MetaData.Schema.D2 {
+  "UId": "131ddb49-5f4f-447f-9bac-026c51f4c52d",
+  "A2": "ItcReturn",
+  "A3": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A4": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "d6e70b76-740b-41da-b420-5fdbab74f5d0",
+  "E6": true,
+  "E17": "ItcReturnId",
+  "E18": "ItcReturnName"
+}
++ MetaData.Schema.D2 {
+  "UId": "55f77042-6c29-bedc-8b69-047f1beffc1c",
+  "A2": "ItcFlight",
+  "A3": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A4": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "df2b1210-e285-4bab-838e-98188c5af236",
+  "E2": 1,
+  "E6": true,
+  "E17": "ItcFlightId",
+  "E18": "ItcFlightItcCode"
+}
++ MetaData.Schema.D2 {
+  "UId": "6cfd79c0-c8ae-9804-19d4-6c1559751132",
+  "A2": "ItcName",
+  "A3": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A4": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","b8884460-32ba-b66e-1d14-77f8ad291927","6d59daa0-93d6-67f4-1da3-44f1dd4d8119","ad2a33f9-2501-c630-5e01-6b6526699ba5","6ffce761-f23e-f2f1-df2b-581af0f83cbc","89c74ee5-0fe5-294d-1c98-ad92aa822484","131ddb49-5f4f-447f-9bac-026c51f4c52d","55f77042-6c29-bedc-8b69-047f1beffc1c","6cfd79c0-c8ae-9804-19d4-6c1559751132"]
+= MetaData.Schema.D20.A2 "ItcRateEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

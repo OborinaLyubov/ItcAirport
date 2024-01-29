@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тариф" />
+			<Item Name="Columns.ItcAvailabilityBaggage.Caption" Value="Наличие багажа" />
+			<Item Name="Columns.ItcChioceLocation.Caption" Value="Выбор места" />
+			<Item Name="Columns.ItcFlight.Caption" Value="Рейс" />
+			<Item Name="Columns.ItcHandLuggageMaxWeight.Caption" Value="Максимальный вес ручной клади" />
+			<Item Name="Columns.ItcName.Caption" Value="Название" />
+			<Item Name="Columns.ItcPrice.Caption" Value="Цена" />
+			<Item Name="Columns.ItcReturn.Caption" Value="Возврат" />
+			<Item Name="Columns.ItcSwap.Caption" Value="Обмен" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>
