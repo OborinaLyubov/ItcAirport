@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "03ea934b-a30e-4a17-89d0-eb752b5bd171",
     "Name": "ItcAirline",
-    "ModifiedOnUtc": "\/Date(1706297136000)\/",
+    "ModifiedOnUtc": "\/Date(1706519981000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"

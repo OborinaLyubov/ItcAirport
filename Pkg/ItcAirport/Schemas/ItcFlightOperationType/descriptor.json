@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "159295c5-11f5-4876-bdac-ca91ce4360ab",
     "Name": "ItcFlightOperationType",
-    "ModifiedOnUtc": "\/Date(1706427287000)\/",
+    "ModifiedOnUtc": "\/Date(1706520342000)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"
