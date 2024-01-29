@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "5952c5b3-78e2-40b9-adbc-9fe494cf9aa9",
     "Name": "ItcRate",
-    "ModifiedOnUtc": "\/Date(1706511175000)\/",
+    "ModifiedOnUtc": "\/Date(1706520694000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"

@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "4dee2ff0-8eb0-459e-aed9-9b5f24e020b9",
     "Name": "ItcSwapType",
-    "ModifiedOnUtc": "\/Date(1706510641000)\/",
+    "ModifiedOnUtc": "\/Date(1706520910000)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"
