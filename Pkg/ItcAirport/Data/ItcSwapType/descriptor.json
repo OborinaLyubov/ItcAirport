@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "d21ecccf-a0ba-f524-1c21-72443df7b234",
+    "Name": "ItcSwapType",
+    "ModifiedOnUtc": "\/Date(1706511383000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "4dee2ff0-8eb0-459e-aed9-9b5f24e020b9",
+      "Name": "ItcSwapType"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}
