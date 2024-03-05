@@ -2,12 +2,12 @@
   "Descriptor": {
     "UId": "57f1b8f2-690a-49c4-8bde-455f5f904c05",
     "Name": "ItcFlightSchedule",
-    "ModifiedOnUtc": "\/Date(1706519101000)\/",
+    "ModifiedOnUtc": "\/Date(1709540895000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Расписание рейса"
+    "Caption": "Расписание рейсов"
   }
 }

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d4954925-b67a-4b66-83e1-b510f31c198a",
+    "Name": "ItcFlightScheduleInTag",
+    "ModifiedOnUtc": "\/Date(1706532349000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Расписание рейса"
+  }
+}

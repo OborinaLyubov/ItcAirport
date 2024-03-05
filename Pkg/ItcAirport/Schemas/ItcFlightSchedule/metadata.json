@@ -22,6 +22,7 @@
 + MetaData.Schema.D29 "null"
 + MetaData.Schema.D30 "null"
 + MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "8bf529f1-bfdb-7f20-c9cf-580e1f9d0169"
 + MetaData.Schema.D2 {
   "UId": "ed0ef593-3e36-3e94-d5a2-03b988539371",
   "A2": "ItcFlightState",
@@ -31,6 +32,10 @@
   "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
   "S4": "aa83cd97-ab56-4c86-9e6f-1c55995d3057",
   "E6": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "79e48d18-82b8-488f-9a23-33cfc60aaf76"
+  },
   "E17": "ItcFlightStateId",
   "E18": "ItcFlightStateName"
 }
@@ -42,6 +47,7 @@
   "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
   "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
   "S4": "df2b1210-e285-4bab-838e-98188c5af236",
+  "E2": 1,
   "E6": true,
   "E17": "ItcFlightId",
   "E18": "ItcFlightItcCode"
@@ -70,7 +76,16 @@
   "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
   "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","ed0ef593-3e36-3e94-d5a2-03b988539371","523854bd-d307-9827-1578-015da8084bd5","8bf529f1-bfdb-7f20-c9cf-580e1f9d0169","ca51966e-5fe7-f55d-9b55-90d466d31788","67a01ca0-4792-9cf4-e118-56d80302098f"]
++ MetaData.Schema.D2 {
+  "UId": "e45798ee-930c-45c0-a003-da44492c462f",
+  "A2": "ItcNotes",
+  "A3": "57f1b8f2-690a-49c4-8bde-455f5f904c05",
+  "A4": "57f1b8f2-690a-49c4-8bde-455f5f904c05",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","ed0ef593-3e36-3e94-d5a2-03b988539371","523854bd-d307-9827-1578-015da8084bd5","8bf529f1-bfdb-7f20-c9cf-580e1f9d0169","ca51966e-5fe7-f55d-9b55-90d466d31788","67a01ca0-4792-9cf4-e118-56d80302098f","e45798ee-930c-45c0-a003-da44492c462f"]
 = MetaData.Schema.D20.A2 "ItcFlightScheduleEvents"
 - MetaData.Schema.EG1.B6
 - MetaData.Schema.EG1.BK29

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ef84fa08-24a8-468b-abb6-c4b12f39c3b0",
+    "Name": "ItcFlightSchedule1Page",
+    "ModifiedOnUtc": "\/Date(1709546893000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Расписание рейсов\""
+  }
+}

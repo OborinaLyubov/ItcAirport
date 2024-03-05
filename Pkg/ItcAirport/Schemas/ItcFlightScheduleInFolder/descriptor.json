@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "0228ce41-dd88-43cb-9e6c-7f835d3b421c",
+    "Name": "ItcFlightScheduleInFolder",
+    "ModifiedOnUtc": "\/Date(1706532346000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Расписание рейса в группе"
+  }
+}

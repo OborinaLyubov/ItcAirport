@@ -7,6 +7,7 @@
 			<Item Name="Columns.ItcDepartureSchedule.Caption" Value="Вылет по расписанию" />
 			<Item Name="Columns.ItcFlight.Caption" Value="Рейс" />
 			<Item Name="Columns.ItcFlightState.Caption" Value="Состояние рейса" />
+			<Item Name="Columns.ItcNotes.Caption" Value="Заметки" />
 			<Item Name="Columns.ItcTravelTime.Caption" Value="Время в пути" />
 			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
 		</Items>
