@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "96dddafc-afd3-4461-a741-4e09a6a2a41e",
+    "Name": "ItcAirlineFolder",
+    "ModifiedOnUtc": "\/Date(1709636919000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Авиакомпания"
+  }
+}

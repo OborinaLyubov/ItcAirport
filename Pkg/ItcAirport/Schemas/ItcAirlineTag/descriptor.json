@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "59c6418e-d1d6-4357-896e-dc95421a8043",
+    "Name": "ItcAirlineTag",
+    "ModifiedOnUtc": "\/Date(1709636921000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Авиакомпания"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c2dfd339-cafb-47a5-8d05-63a63dd0e82a",
+    "Name": "ItcAirplaneInFolder",
+    "ModifiedOnUtc": "\/Date(1709634912000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Самолет в группе"
+  }
+}

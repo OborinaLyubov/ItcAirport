@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "efa6c2f2-1cfd-43e4-80d8-38cbae30451f",
+    "Name": "ItcAirportInFolder",
+    "ModifiedOnUtc": "\/Date(1709625885000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Аэропорт в группе"
+  }
+}
