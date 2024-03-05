@@ -7,6 +7,7 @@
 			<Item Name="Columns.ItcCode.Caption" Value="Номер рейса" />
 			<Item Name="Columns.ItcDeparturePoint.Caption" Value="Пункт отправления" />
 			<Item Name="Columns.ItcDestinationPoint.Caption" Value="Пункт назначения" />
+			<Item Name="Columns.ItcNotes.Caption" Value="Заметки" />
 			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
 		</Items>
 	</Group>

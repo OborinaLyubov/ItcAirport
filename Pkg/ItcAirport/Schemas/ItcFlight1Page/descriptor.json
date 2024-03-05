@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "08b93baf-b765-46e6-bad7-4b0a94224577",
+    "Name": "ItcFlight1Page",
+    "ModifiedOnUtc": "\/Date(1706534983000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Рейсы\""
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "340dc0af-ced8-4651-afc1-9411f7b3385f",
+    "Name": "ItcFlightInTag",
+    "ModifiedOnUtc": "\/Date(1706529893000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Рейс"
+  }
+}
