@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "f6dd64f0-0123-5298-2e53-b8bb17a12f0e",
+    "Name": "SysProfileData_Delete_ItcAirportSectionGridSettingsGridDataView",
+    "DBEngineType": 0,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1709628522000)\/",
+    "DependsOn": []
+  }
+}

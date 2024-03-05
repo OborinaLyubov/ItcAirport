@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d9d45dbf-3249-481a-a8c0-1766110fb79c",
+    "Name": "ItcAirportInTag",
+    "ModifiedOnUtc": "\/Date(1709625888000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Аэропорт"
+  }
+}

@@ -2,12 +2,12 @@
   "Descriptor": {
     "UId": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
     "Name": "ItcAirplane",
-    "ModifiedOnUtc": "\/Date(1706519517000)\/",
+    "ModifiedOnUtc": "\/Date(1709634908000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Самолет"
+    "Caption": "Самолеты"
   }
 }

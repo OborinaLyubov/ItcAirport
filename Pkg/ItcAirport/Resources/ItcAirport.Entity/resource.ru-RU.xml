@@ -2,10 +2,11 @@
 <Resources Culture="ru-RU">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Аэропорт" />
+			<Item Name="Caption" Value="Аэропорты" />
 			<Item Name="Columns.ItcCity.Caption" Value="Город" />
 			<Item Name="Columns.ItcCountry.Caption" Value="Страна" />
 			<Item Name="Columns.ItcName.Caption" Value="Название" />
+			<Item Name="Columns.ItcNotes.Caption" Value="Заметки" />
 			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
 		</Items>
 	</Group>

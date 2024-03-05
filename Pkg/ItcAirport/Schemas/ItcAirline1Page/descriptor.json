@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "2400de2a-fb49-464d-be6d-086f39314acb",
+    "Name": "ItcAirline1Page",
+    "ModifiedOnUtc": "\/Date(1709636915000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Авиакомпании\""
+  }
+}

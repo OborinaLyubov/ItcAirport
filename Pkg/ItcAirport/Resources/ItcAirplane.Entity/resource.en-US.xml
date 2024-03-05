@@ -8,6 +8,7 @@
 			<Item Name="Columns.ItcCode.Caption" Value="Номер самолета" />
 			<Item Name="Columns.ItcEconomy.Caption" Value="Эконом" />
 			<Item Name="Columns.ItcModel.Caption" Value="Модель" />
+			<Item Name="Columns.ItcNotes.Caption" Value="Заметки" />
 			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
 		</Items>
 	</Group>

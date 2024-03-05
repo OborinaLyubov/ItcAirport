@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d3acecc-7f11-4800-8787-37316c55f69c",
+    "Name": "ItcAirplaneTag",
+    "ModifiedOnUtc": "\/Date(1709634913000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Самолет"
+  }
+}
