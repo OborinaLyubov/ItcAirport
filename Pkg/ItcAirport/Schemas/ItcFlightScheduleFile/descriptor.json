@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "18fb2025-3f92-41d7-8dd9-971d9d56b4d1",
+    "Name": "ItcFlightScheduleFile",
+    "ModifiedOnUtc": "\/Date(1706532344000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Расписание рейса"
+  }
+}

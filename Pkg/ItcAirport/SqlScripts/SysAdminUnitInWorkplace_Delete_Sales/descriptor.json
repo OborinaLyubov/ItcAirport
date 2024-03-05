@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "5b2c6607-7d8f-d550-fc22-87585049ae3d",
+    "Name": "SysAdminUnitInWorkplace_Delete_Sales",
+    "DBEngineType": 0,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1706531442000)\/",
+    "DependsOn": []
+  }
+}
