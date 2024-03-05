@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "05f38e38-83ad-4313-bb65-5d3544f95343",
+    "Name": "ItcFlightInFolder",
+    "ModifiedOnUtc": "\/Date(1706529891000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Рейс в группе"
+  }
+}

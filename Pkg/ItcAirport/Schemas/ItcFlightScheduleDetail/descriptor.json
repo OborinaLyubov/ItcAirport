@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "2dc1e98c-594e-47e5-a7c4-2148cac9d8ea",
+    "Name": "ItcFlightScheduleDetail",
+    "ModifiedOnUtc": "\/Date(1706534861000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Расписание рейсов\""
+  }
+}

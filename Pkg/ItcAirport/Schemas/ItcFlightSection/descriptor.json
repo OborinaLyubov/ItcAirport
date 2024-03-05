@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "875b7db1-f926-446f-a0e6-f42baba2a913",
+    "Name": "ItcFlightSection",
+    "ModifiedOnUtc": "\/Date(1709532901000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Рейсы\""
+  }
+}
