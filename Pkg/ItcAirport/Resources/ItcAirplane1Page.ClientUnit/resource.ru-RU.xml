@@ -3,6 +3,10 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница редактирования: &quot;Самолеты&quot;" />
+			<Item Name="LocalizableStrings.TabMassesAndLoadsGroupGroupCaption.Value" Value="Массы и нагрузки" />
+			<Item Name="LocalizableStrings.TabNumberPlacesGroupGroupCaption.Value" Value="Число мест" />
+			<Item Name="LocalizableStrings.TabSizesGroupGroupCaption.Value" Value="Размеры" />
+			<Item Name="LocalizableStrings.TabSpecificationsTabCaption.Value" Value="Технические характеристики" />
 		</Items>
 	</Group>
 </Resources>
