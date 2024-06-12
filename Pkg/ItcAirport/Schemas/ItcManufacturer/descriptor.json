@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f40972e8-9827-4dbd-b70d-5290a553ebce",
+    "Name": "ItcManufacturer",
+    "ModifiedOnUtc": "\/Date(1718186802000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Производитель"
+  }
+}

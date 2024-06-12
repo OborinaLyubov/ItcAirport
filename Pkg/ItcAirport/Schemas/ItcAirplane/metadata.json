@@ -73,7 +73,145 @@
   "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
   "E5": false
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","66032aec-134a-8acb-7593-fd7730e5f75f","8a6bd238-e996-ea13-4a21-cd2ee534337e","219a489a-1120-390a-814a-e860de76ba3c","a61620f5-97f8-946b-adeb-4707076294c9","c6858d5a-ba57-8dbc-f28a-e48ff0699620","893ad5de-69a7-4674-870a-d064b6586eba"]
++ MetaData.Schema.D2 {
+  "UId": "10ef0387-ffcd-1c1a-e08e-274057acd6cb",
+  "A2": "ItcFuselageDiameter",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "85e4ad47-99ae-7f56-b396-16c03b7a66da",
+  "A2": "ItcHeight",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "3562f023-01c3-7123-6a8a-cdf67496ee96",
+  "A2": "ItcLenght",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "adeae39b-2b94-2036-8c6d-52b45a337625",
+  "A2": "ItcWingspan",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "6e88df0f-386a-4051-8916-02f023496976",
+  "A2": "ItcLandingWeight",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "e88f4471-a9d7-070a-e535-a3faec26e448",
+  "A2": "ItcPaidLoad",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "622864f4-5219-a683-eaf3-1ecc778012c4",
+  "A2": "ItcWeightWithoutFuel",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "878919ab-aac0-996c-da91-73e74f379b8f",
+  "A2": "ItcEmptyWeight",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "9bd5d285-9b3b-670c-ff17-ac3c32f5a759",
+  "A2": "ItcTakeOffWeight",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "0d786194-3310-487a-d8b3-3625603691eb",
+  "A2": "ItcRequiredRunwayLength",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "22e09677-ee8c-55dc-ad85-74633c35e740",
+  "A2": "ItcEngine",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+}
++ MetaData.Schema.D2 {
+  "UId": "0c720815-68a4-328d-474c-553a6cb2463f",
+  "A2": "ItcOperationalCeiling",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "44e55a4f-3ba0-aed1-47a0-69458209bece",
+  "A2": "ItcFlightRangeWithPassengersAndLuggage",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "222c7e3e-0b6a-d914-9267-1e9921005372",
+  "A2": "ItcCruisingSpeed",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+}
++ MetaData.Schema.D2 {
+  "UId": "673eb113-ef70-b6c6-bc2f-59433fb388eb",
+  "A2": "ItcCountry",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "09fce1f8-515c-4296-95cd-8cd93f79a6cf",
+  "E2": 1,
+  "E6": true,
+  "E17": "ItcCountryId",
+  "E18": "ItcCountryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "bb9846fa-4665-5f72-1b30-e41152ff3429",
+  "A2": "ItcManufacturer",
+  "A3": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A4": "733ebf00-1a2e-4ca3-971c-efc4bb35c612",
+  "A5": "57dd6ac5-9b84-474c-afb6-82990de558bc",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "f40972e8-9827-4dbd-b70d-5290a553ebce",
+  "E2": 1,
+  "E6": true,
+  "E17": "ItcManufacturerId",
+  "E18": "ItcManufacturerName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","66032aec-134a-8acb-7593-fd7730e5f75f","8a6bd238-e996-ea13-4a21-cd2ee534337e","219a489a-1120-390a-814a-e860de76ba3c","a61620f5-97f8-946b-adeb-4707076294c9","c6858d5a-ba57-8dbc-f28a-e48ff0699620","893ad5de-69a7-4674-870a-d064b6586eba","10ef0387-ffcd-1c1a-e08e-274057acd6cb","85e4ad47-99ae-7f56-b396-16c03b7a66da","3562f023-01c3-7123-6a8a-cdf67496ee96","adeae39b-2b94-2036-8c6d-52b45a337625","6e88df0f-386a-4051-8916-02f023496976","e88f4471-a9d7-070a-e535-a3faec26e448","622864f4-5219-a683-eaf3-1ecc778012c4","878919ab-aac0-996c-da91-73e74f379b8f","9bd5d285-9b3b-670c-ff17-ac3c32f5a759","0d786194-3310-487a-d8b3-3625603691eb","22e09677-ee8c-55dc-ad85-74633c35e740","0c720815-68a4-328d-474c-553a6cb2463f","44e55a4f-3ba0-aed1-47a0-69458209bece","222c7e3e-0b6a-d914-9267-1e9921005372","673eb113-ef70-b6c6-bc2f-59433fb388eb","bb9846fa-4665-5f72-1b30-e41152ff3429"]
 = MetaData.Schema.D20.A2 "ItcAirplaneEvents"
 - MetaData.Schema.EG1.B6
 - MetaData.Schema.EG1.BK29

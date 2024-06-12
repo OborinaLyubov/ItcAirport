@@ -6,9 +6,25 @@
 			<Item Name="Columns.ItcBusiness.Caption" Value="Бизнес" />
 			<Item Name="Columns.ItcCapacity.Caption" Value="Количество мест" />
 			<Item Name="Columns.ItcCode.Caption" Value="Номер самолета" />
+			<Item Name="Columns.ItcCountry.Caption" Value="Страна" />
+			<Item Name="Columns.ItcCruisingSpeed.Caption" Value="Крейсерская скорость (км/ч)" />
 			<Item Name="Columns.ItcEconomy.Caption" Value="Эконом" />
+			<Item Name="Columns.ItcEmptyWeight.Caption" Value="Пустого снаряженного (т)" />
+			<Item Name="Columns.ItcEngine.Caption" Value="Двигатели" />
+			<Item Name="Columns.ItcFlightRangeWithPassengersAndLuggage.Caption" Value="Дальность полета с пассажирами и багажом (км)" />
+			<Item Name="Columns.ItcFuselageDiameter.Caption" Value="Диаметр фюзеляжа" />
+			<Item Name="Columns.ItcHeight.Caption" Value="Высота самолета (м)" />
+			<Item Name="Columns.ItcLandingWeight.Caption" Value="Посадочная (т)" />
+			<Item Name="Columns.ItcLenght.Caption" Value="Длина самолета (м)" />
+			<Item Name="Columns.ItcManufacturer.Caption" Value="Производитель" />
 			<Item Name="Columns.ItcModel.Caption" Value="Модель" />
-			<Item Name="Columns.ItcNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.ItcNotes.Caption" Value="Описание" />
+			<Item Name="Columns.ItcOperationalCeiling.Caption" Value="Эксплуатационный потолок (м)" />
+			<Item Name="Columns.ItcPaidLoad.Caption" Value="Платная нагрузка (т)" />
+			<Item Name="Columns.ItcRequiredRunwayLength.Caption" Value="Потребная длина ВПП (м)" />
+			<Item Name="Columns.ItcTakeOffWeight.Caption" Value="Взлетная (т)" />
+			<Item Name="Columns.ItcWeightWithoutFuel.Caption" Value="Самолета без топлива (т)" />
+			<Item Name="Columns.ItcWingspan.Caption" Value="Размах крыла (м)" />
 			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
 		</Items>
 	</Group>
