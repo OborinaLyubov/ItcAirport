@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "af1333c1-e1d8-42cd-96c5-dd6c593d507b",
+    "Name": "ItcPassenger",
+    "ModifiedOnUtc": "\/Date(1729421276000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Пассажиры"
+  }
+}

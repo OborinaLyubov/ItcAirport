@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "6c00ab39-28db-49bc-ad99-29d24fb9d9b8",
+    "Name": "ItcPassengerEventListener",
+    "ModifiedOnUtc": "\/Date(1729453661000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Событийный слой объекта \"Пассажир\""
+  }
+}

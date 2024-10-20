@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Пассажиры&quot;" />
+			<Item Name="LocalizableStrings.FilesDetailCaptionOnPage.Value" Value="Файлы" />
+			<Item Name="LocalizableStrings.ItcEmailCaption.Value" Value="Email" />
+			<Item Name="LocalizableStrings.ItcFIOCaption.Value" Value="ФИО" />
+			<Item Name="LocalizableStrings.ItcPhoneCaption.Value" Value="Телефон" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Файлы" />
+			<Item Name="LocalizableStrings.TabMainInfoContactGroupGroupCaption.Value" Value="Данные контакта" />
+			<Item Name="LocalizableStrings.TabMainInfoTabCaption.Value" Value="Основная информация" />
+		</Items>
+	</Group>
+</Resources>

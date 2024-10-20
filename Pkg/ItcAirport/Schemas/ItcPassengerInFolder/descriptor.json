@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "00d51142-e60e-42af-98d4-5f7bfebd04d0",
+    "Name": "ItcPassengerInFolder",
+    "ModifiedOnUtc": "\/Date(1729416053000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Пассажир в группе"
+  }
+}

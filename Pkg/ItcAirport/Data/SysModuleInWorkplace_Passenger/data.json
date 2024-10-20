@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "48f19dbe-2cbe-41e0-a858-a31034e05b04"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "18b2b1e7-0045-446f-801a-363d03dc5e87",
+          "DisplayValue": "Аэропорт"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "88f31ba7-61de-47e7-8cb7-078bc0082317",
+          "DisplayValue": "Пассажиры"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 19
+        }
+      ]
+    }
+  ]
+}

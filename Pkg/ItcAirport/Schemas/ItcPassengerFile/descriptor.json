@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "24f3bcd3-9546-4839-a0c6-9027dd20932b",
+    "Name": "ItcPassengerFile",
+    "ModifiedOnUtc": "\/Date(1729416048000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Пассажир"
+  }
+}
