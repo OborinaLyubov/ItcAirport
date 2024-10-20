@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Пассажир" />
+			<Item Name="Columns.ItcCode.Caption" Value="Код пассажира" />
+			<Item Name="Columns.ItcContact.Caption" Value="Контакт" />
+			<Item Name="Columns.ItcNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.ItcPassport.Caption" Value="Паспорт" />
+		</Items>
+	</Group>
+</Resources>

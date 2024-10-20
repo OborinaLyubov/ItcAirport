@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "673bd92d-806a-4494-8a76-7f1d8eb92b5d",
+    "Name": "ItcPassengerTag",
+    "ModifiedOnUtc": "\/Date(1729416056000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Пассажир"
+  }
+}

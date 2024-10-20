@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "94c7928e-6583-8787-8430-34d90a4503d7",
+    "Name": "ItcAirport",
+    "BPMSoftVersion": "1.2.0",
+    "ModifiedOnUtc": "\/Date(1729373949000)\/",
+    "Maintainer": "ITC",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "1.0.0",
+        "Name": "Constructor"
+      }
+    ]
+  }
+}
